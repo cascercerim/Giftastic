@@ -1,0 +1,29 @@
+body{
+    background: teal;
+    font-family: 'Comfortaa', cursive;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+}
+
+ 
+.tv-btn,.btn, #add-show{
+    font-size: 14px;
+    font-weight: 700;
+	background: aliceblue;
+	border: none;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 20px;
+}
+button {
+    padding: 10px 15px;
+    background: aliceblue;
+    font-weight: 700;
+	font-size: 14px;
+    border: none;
+    margin: 6px;
+	border-radius: 20px;
+}
