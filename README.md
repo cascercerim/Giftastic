@@ -1,5 +1,7 @@
 # Giftastic
 
+https://cascercerim.github.io/Giftastic/
+
 Week 6 homework assignment:
 Giphy API
 ActionTastic - Basic Assignment User Story
