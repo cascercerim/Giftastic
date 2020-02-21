@@ -2,11 +2,7 @@
 
 https://cascercerim.github.io/Giftastic/
 
-Week 6 homework assignment:
-
 Giphy API
-
-ActionTastic - Basic Assignment User Story
 
 I created a Fun App full of gifs using the giphy api!!!
 Here is the documentation for the Giphy API
