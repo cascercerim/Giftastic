@@ -4,7 +4,7 @@ https://cascercerim.github.io/Giftastic/
 
 Giphy API
 
-I created a Fun App full of gifs using the giphy api!!!
+I created a Fun App full of gifs using the giphy api!
 Here is the documentation for the Giphy API
 I made an array of Tv Show's and made buttons out of them.
 When you click on a button, 10 images are retrieved from giphy and displayed on the page.
